@@ -1,0 +1,12 @@
+{
+    "name": "xindong888/library",
+    "description": "这是一个库",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "xindong888",
+            "email": "xindong888@163.com"
+        }
+    ],
+    "require": {}
+}
