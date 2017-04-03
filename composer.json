@@ -8,5 +8,12 @@
             "email": "xindong888@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "fxp-asset":{
+            "installer-paths":{
+                "xindong888/library/frameworks":"library"
+            }
+        }
+    }
 }
