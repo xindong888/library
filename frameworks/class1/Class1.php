@@ -6,7 +6,7 @@
  * Time: 上午12:19
  */
 
-namespace class1;
+namespace frameworks\class1;
 
 
 class Class1

@@ -9,11 +9,9 @@
         }
     ],
     "require": {},
-    "config": {
-        "fxp-asset":{
-            "installer-paths":{
-                "xindong888/library/frameworks":"vendor/library"
-            }
+    "autoload": {
+        "psr-4": {
+            "frameworks\\": "frameworks/"
         }
     }
 }

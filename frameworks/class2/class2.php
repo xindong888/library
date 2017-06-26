@@ -6,7 +6,7 @@
  * Time: 上午12:19
  */
 
-namespace class2;
+namespace frameworks\class2;
 
 
 class class2
