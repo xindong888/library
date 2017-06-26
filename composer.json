@@ -12,7 +12,7 @@
     "config": {
         "fxp-asset":{
             "installer-paths":{
-                "xindong888-library-frameworks":"vendor/library"
+                "xindong888/library/frameworks":"vendor/library"
             }
         }
     }
